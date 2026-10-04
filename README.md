@@ -10,9 +10,9 @@ Codexを初めて使う方は、[hello-codex](https://github.com/okana2ki/hello-
 2. [ZenjoConレポジトリ](https://github.com/okana2ki/ZenjoCon)のダウンロード
     1. レポジトリのページ右上部 緑色の「Code」ボタンをクリック
     2. ドロップダウンメニュー一番下の「Download ZIP」をクリック
-    3. ダウンロードしたファイルZenjoCon-main.zipを解凍
-    4. 解凍したフォルダZenjoCon-mainを適当な場所に置く
-3. Codexを起動し、新規プロジェクトを作成して下さい
+    3. ダウンロードしたファイル `ZenjoCon-main.zip` を解凍
+    4. 解凍したフォルダ `ZenjoCon-main` を適当な場所に置く
+3. Codexを起動し、新規プロジェクトを作成
     1. プロジェクト名を入力（例；全情コン応募）
-    2. ワークスペースの追加
-4. あああ
+    2. ソースフォルダの追加：`ZenjoCon-main` の下の :**`全情コン応募支援`フォルダをソースフォルダに追加 **
+4. **`全情コン応募支援`の下の `README.md`** に従って、演習を進める
