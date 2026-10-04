@@ -15,4 +15,4 @@ Codexを初めて使う方は、[hello-codex](https://github.com/okana2ki/hello-
 3. Codexを起動し、新規プロジェクトを作成
     1. プロジェクト名を入力（例；全情コン応募）
     2. ソースフォルダの追加：`ZenjoCon-main` の下の :**`全情コン応募支援`フォルダをソースフォルダに追加**
-4. **`全情コン応募支援`の下の `README.md`** に従って、演習を進める
+4. [**`全情コン応募支援`の下の `README.md`**](https://github.com/okana2ki/ZenjoCon/blob/main/%E5%85%A8%E6%83%85%E3%82%B3%E3%83%B3%E5%BF%9C%E5%8B%9F%E6%94%AF%E6%8F%B4/README.md) に従って、演習を進める
